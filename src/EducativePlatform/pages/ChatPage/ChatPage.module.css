@@ -1,0 +1,78 @@
+.Class {
+    display: flex;
+    background-color: #e2e2e2;
+    border-radius: 20px;
+    border: solid rgb(0, 0, 0);
+    margin-left: 3vh;
+    margin-right: 3vh;
+    margin-bottom: 1vh;
+    margin-top: 1vh;
+    width: 25%;
+    height: 35%;
+
+}
+
+.foto {
+    width: 25%;
+    height: 25%;
+    margin-left: 1vh;
+    margin-right: 1vh;
+    margin-bottom: 1vh;
+    margin-top: 1vh;
+    border-radius: 50%;
+}
+
+.Titulo {
+    text-align: left;
+    color: black;
+    border: solid black;
+    border-radius: 10px;
+    background-color: #ffffff;
+
+}
+
+.Titulo h1 {
+    margin-top: 1vh;
+    margin-left: 1vh;
+    height: auto;
+}
+
+.Class p {
+
+    color: rgb(0, 0, 0);
+    font-size: 1.6vw;
+    margin-left: 1vh;
+    margin-right: 1vh;
+    margin-bottom: 1vh;
+    margin-top: 1vh;
+
+}
+
+
+.button {
+    /* border-radius: 7px; */
+    background-color: #e2e2e2;
+    width: 20%;
+    height: 40px;
+    color: #e2e2e2;
+    border: 0px;
+    border-color: #e2e2e2;
+    margin-left: 1vh;
+    margin-right: 1vh;
+    margin-bottom: 1vh;
+    margin-top: 1vh;
+    /* display:none; */
+}
+
+.button:hover {
+
+    border-radius: 7px;
+    background-color: rgb(236, 37, 37);
+    width: 20%;
+    height: 40px;
+    color: rgb(255, 255, 255);
+}
+
+.orden {
+    display: flex;
+}

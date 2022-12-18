@@ -1,0 +1,9 @@
+.class-card {
+  height: 27%;
+  width: 30%;
+}
+
+.card-image {
+  height: 20vh;
+  width: 100%;
+}

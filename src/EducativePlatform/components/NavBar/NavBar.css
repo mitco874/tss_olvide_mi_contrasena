@@ -1,0 +1,13 @@
+.nav-bar {
+  height: 15vh;
+  margin-bottom: 0;
+  width: 102%;
+}
+
+.logo-image{
+  background-image: url("../../../../public/assets/images/platform-logo.png");
+  height: 100px;
+  width: 100px;
+  margin-top: 0;
+  background-repeat: no-repeat;
+}

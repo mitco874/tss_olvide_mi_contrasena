@@ -1,0 +1,107 @@
+.Class {
+    display: flex;
+    background-color: #e2e2e2;
+    border-radius: 20px;
+    border: solid rgb(66, 65, 65);
+    margin-left: 5vh;
+    margin-right: 5vh;
+    margin-bottom: 5vh;
+    margin-top:3vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.Class img{
+    width: 30%;
+    height: 65%;
+    position: relative;
+}
+.foto{
+    width: 15%;
+    height: 15%;
+    margin-left: 3vh;
+    margin-right: 3vh;
+    margin-bottom: 3vh;
+    margin-top:3vh;
+    border-radius: 50%;
+}
+.Titulo{
+    text-align: left;
+    color: rgb(32, 4, 86);
+    border: solid rgb(38, 6, 64);
+    border-radius: 10px;
+    position: relative;
+    left: 10px;
+
+}
+.Titulo h1{
+    margin-top:1vh;
+    margin-left: 1vh;
+}
+
+.Titulo p {
+    
+    text-align: start;
+    color: rgb(0, 0, 0);
+    font-size: 1.6vw;
+    margin-left: 3vh;
+    margin-right: 3vh;
+    margin-bottom: 3vh;
+    margin-top:3vh;
+
+}
+
+.textform {
+    width: 40%;
+}
+
+.box {
+    border-radius: 7px;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(37, 34, 34);
+    width: 210px;
+}
+
+.Inicio{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    right: 10px;
+    position: absolute;
+}
+.Left{
+    align-items: left;
+    justify-content: left;
+    text-align: left;
+    left:450px;
+    position: relative;
+    
+
+}
+.Right{
+    align-items: right;
+    justify-content: center;
+    text-align: center;
+    right: 50px;
+    position: relative;
+
+}
+.fotoCuadro{
+    width: 30%;
+    height: 65%;
+    position: relative;
+}
+.fotoCuadro2{
+    display: flex;
+    background-color: #e2e2e2;
+    border-radius: 20px;
+    border: solid rgb(66, 65, 65);
+    margin-left: 10vh;
+    margin-right: 10vh;
+    margin-bottom: 3vh;
+    margin-top:3vh;
+    width: 20%;
+    height: 45%;
+    size: 50%;
+float: left;
+}

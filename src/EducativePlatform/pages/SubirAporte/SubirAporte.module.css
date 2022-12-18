@@ -1,0 +1,63 @@
+.Class {
+    display: flex;
+    flex-direction: column;
+    background-color: #e2e2e2;
+    /*width: 100%;
+    height: 100%;
+    margin-left: 2%;*/
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    border: solid rgb(66, 65, 65);
+    margin-left: 30vh;
+    margin-right: 20vh;
+    margin-bottom: 10vh;
+    margin-top:5vh;
+}
+
+.Titulo{
+    text-align: left;
+    color: black;
+    border: solid black;
+    border-radius: 10px;
+}
+
+.Titulo p {
+    
+    display: flex;
+    text-align: start;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+}
+
+.ClassImage {
+    background-color: rgb(202, 183, 5);
+    width: 45vh;
+    height: 25vh;
+}
+
+.texth3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.textform {
+    width: 40%;
+}
+
+.box {
+    border-radius: 7px;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(37, 34, 34);
+    width: 210px;
+}
+
+.button {
+    border-radius: 20px;
+    /* background-color: rgb(25, 86, 199); */
+    width: 20%;
+    height: 40px;
+    color: black;
+    justify-content: center;
+    display: flex;
+}

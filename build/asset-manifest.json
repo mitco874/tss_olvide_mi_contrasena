@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34ed9b91.css",
+    "main.js": "/static/js/main.0199324c.js",
+    "static/media/hand.PNG": "/static/media/hand.87bfc8622447315276b5.PNG",
+    "static/media/RevisarAporte.jpg": "/static/media/RevisarAporte.d6bcee744918e80e0a93.jpg",
+    "static/media/oferta1.webp": "/static/media/oferta1.e4413a521a5ccb3663e9.webp",
+    "static/media/contenido.png": "/static/media/contenido.54497d0e5a9142304c16.png",
+    "static/media/quienesSomos.webp": "/static/media/quienesSomos.4acd4d04f924910f967a.webp",
+    "static/media/plataformaEducativa.jpg": "/static/media/plataformaEducativa.b4523db49a203468d3b5.jpg",
+    "static/media/SubirAporte.jpg": "/static/media/SubirAporte.8ed94b2ea463879d3e51.jpg",
+    "index.html": "/index.html",
+    "main.34ed9b91.css.map": "/static/css/main.34ed9b91.css.map",
+    "main.0199324c.js.map": "/static/js/main.0199324c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34ed9b91.css",
+    "static/js/main.0199324c.js"
+  ]
+}

@@ -1,0 +1,6 @@
+.hand-image {
+  background-image: url("../../../../public/assets/images/hand.PNG");
+  background-repeat: no-repeat;
+  height: 80vh;
+  width: 55vh;
+}
