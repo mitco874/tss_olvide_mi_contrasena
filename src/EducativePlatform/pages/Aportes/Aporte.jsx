@@ -122,8 +122,7 @@ export const Aporte = () => {
             {/* <h3>{aporte.titulo}</h3> */}
             <img src={PerfilU} alt="" className={styles.foto} />
             <p>
-              <h3>{comentario.nombre_autor}</h3>
-
+              <h3>{comentario.nombre_completo}</h3>
               {comentario.contenido}
               {/* {aporte.descripcion}{aporte.id} */}
             </p>
